@@ -1,0 +1,7 @@
+fastapi>=0.95.0
+fastapi_offline==1.5.2
+transformers>=4.28.1
+torch>=2.0.0
+websockets==11.0.1
+# chatglm
+icetk==0.0.7
